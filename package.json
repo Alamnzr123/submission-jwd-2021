@@ -1,0 +1,18 @@
+{
+  "name": "sert-jwd",
+  "version": "1.0.0",
+  "description": "Assestment Junior Web Developer - 2021",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alamnzr123/assest-jwd-2021"
+  },
+  "author": {
+    "email": "nzr.rahmad@gmail.com",
+    "name": "Rahmad Alamsyah Nazaruddin"
+  },
+  "license": "ISC"
+}
