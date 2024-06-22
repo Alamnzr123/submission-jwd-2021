@@ -14,4 +14,4 @@ This project i use for my Assestment on Junior Web Developer 2021.
 
 ## Deploy on Vercel
 
-(https://assest-jwd-2021.vercel.app/)
+https://submission-jwd-2021.vercel.app/
